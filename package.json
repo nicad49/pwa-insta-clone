@@ -1,0 +1,20 @@
+{
+  "name": "pwa-insta-clone",
+  "version": "1.0.0",
+  "description": "Clone of a popular photo app for learning PWAs",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": [
+    "pwa",
+    "progressive",
+    "web",
+    "app"
+  ],
+  "author": "Doug R.",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
